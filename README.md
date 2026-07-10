@@ -29,8 +29,7 @@ Amazon S3 Remote Backend
         |
         v
 DynamoDB State Locking
-
+```
 ## Author
 
 **Kisan Deep Lamichhane**
-
