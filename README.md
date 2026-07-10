@@ -32,4 +32,4 @@ DynamoDB State Locking
 ```
 ## Author
 
-**Kisan Deep Lamichhane**
+**Kishan Deep Lamichhane**
